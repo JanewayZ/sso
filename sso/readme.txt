@@ -18,3 +18,6 @@ appId=7AAE48A8-9957-4730-9F7C-746F87E05C5A
 returnUrl=http://127.0.0.1:8085/oapass
 此参数returnUrl是提供sso回调地址返回token,此地址为本项目的地址，oapass路由详见IndexController。对于ip可根据本地运行时的本机ip进行修改
 
+
+#后续添加测试步骤
+
